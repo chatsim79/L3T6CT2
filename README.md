@@ -1,4 +1,4 @@
-##L3T6CT2.
+## L3T6CT2.
 
 #Description:
 
@@ -8,13 +8,13 @@ the ability to write a readme file and push a project to a remote
 repository. As always, if anything would lose me marks, please fail me and 
 I'll resub with corrections.
 
-#Table of Contents:
+# Table of Contents:
 
 1 - Installation
 2 - Usage
 3 - Credits
 
-#1 - Installation:
+# 1 - Installation:
 
 N/A as the purpose of the task is is not to make a Django Project work 
 within github, which is outside the scope of the Task. In any case, i 
